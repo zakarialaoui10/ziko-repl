@@ -1,0 +1,28 @@
+{
+  "name": "ziko-repl",
+  "version": "0.0.0",
+  "description": "A REPL for ZikoJS",
+  "keywords": [
+    "zikojs",
+    "repl"
+  ],
+  "homepage": "https://github.com/zakarialaoui10/ziko-repl#readme",
+  "bugs": {
+    "url": "https://github.com/zakarialaoui10/ziko-repl/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakarialaoui10/ziko-repl.git"
+  },
+  "license": "MIT",
+  "author": "zakaria elalaoui",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "almostnode": "^0.2.13",
+    "ziko": "^0.63.2"
+  }
+}
