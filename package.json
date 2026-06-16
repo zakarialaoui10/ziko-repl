@@ -22,7 +22,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "almostnode": "^0.2.13",
-    "ziko": "^0.63.2"
+    "almostnode": "^0.2.14",
+    "ziko": "^1.1.0"
   }
 }
