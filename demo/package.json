@@ -9,6 +9,10 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^8.0.12"
+    "vite": "^8.2.1"
+  },
+  "dependencies": {
+    "@webcontainer/api": "^1.6.4",
+    "almostnode": "^0.2.14"
   }
 }
